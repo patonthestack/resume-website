@@ -2,4 +2,4 @@
 
 ## Static HTML website hosted on GitHub Pages
 
-### Visit [here](https://patonthestack.github.io)
+### Visit [here](https://patonthestack.github.io/resume-website)
