@@ -35,7 +35,7 @@ nav a:hover {
     background: #666;
     border-radius: 5px;
 }
-img.profile {
+img.profile-pic {
     display: block;
     margin: auto;
     width: 150px;
@@ -50,12 +50,48 @@ footer {
     margin-top: 20px;
 }
 h3 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     color: #333;
     font-weight: bold;
     text-transform: uppercase;
-    border-left: 5px solid #555;
+    border-left: 5px solid #777;
     padding-left: 10px;
     margin-top: 20px;
     margin-bottom: 10px;
+}
+h4 {
+    font-size: 1.4rem;
+    color: #444;
+    font-weight: bold;
+    border-left: 3px solid #333;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+hr {
+    width: 95%;
+}
+ul {
+    list-style: inside circle;
+    font-size: 1.2rem;
+}
+ul.sub-list {
+    list-style: square;
+    margin-top: 5px;
+    font-size: 1rem;
+}
+ul.tr-list {
+    list-style: inside circle;
+    font-size: 1rem;
+    padding-right: 2rem;
+}
+table {
+    margin-left: 2rem;
+}
+th {
+    color: #333;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
 }
